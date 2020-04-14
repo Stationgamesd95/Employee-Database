@@ -1,0 +1,28 @@
+{
+  "name": "12-mysql",
+  "version": "1.0.0",
+  "description": "MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivan Desai",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1",
+    "package": "^1.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stationgamesd95/Employee-Database.git"
+  },
+  "keywords": [
+    "SQL"
+  ],
+  "bugs": {
+    "url": "https://github.com/Stationgamesd95/Employee-Database/issues"
+  },
+  "homepage": "https://github.com/Stationgamesd95/Employee-Database#readme"
+}
